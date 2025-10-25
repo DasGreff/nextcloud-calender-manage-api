@@ -1,4 +1,4 @@
-FROM python:3.12
+FROM python:3.13.9-slim
 
 # Replace these with your own NextCloud details
 # These are placeholders and should be overwritten in your environment setup
